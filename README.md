@@ -23,7 +23,8 @@ It's still very liberal license.
  
  Everything not explicitly prohibited in this license is implictly permitted.
  
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+    DO WHAT THE FUCK YOU WANT BUT ITS NOT MY FAULT AND CREDIT AUTHORS
+                       PUBLIC LICENSE
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
