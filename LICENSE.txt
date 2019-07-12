@@ -1,5 +1,5 @@
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                    Version 2, December 2004
+    DO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT PUBLIC LICENSE
+                    Version 3, January 2016
 
  Copyright (C) 2012 Romain Lespinasse <romain.lespinasse@gmail.com>
 
