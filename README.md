@@ -5,7 +5,8 @@ WTF-NMF-CA-PLv4 is same, but it aims software explicitly, and has added restrict
 It's still very liberal license.
 
 ```
-    DO WHAT THE FUCK YOU WANT BUT CREDIT AUTHORS PUBLIC LICENSE
+    DO WHAT THE FUCK YOU WANT BUT ITS NOT MY FAULT AND CREDIT AUTHORS
+                       PUBLIC LICENSE
                     Version 4, July 2019
 
  Copyright (C) 2019 DubbaThony
