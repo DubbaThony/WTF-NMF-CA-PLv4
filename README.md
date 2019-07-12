@@ -21,7 +21,7 @@ It's still very liberal license.
  but authors and contributors list must be left there and maintained by new
  license under same terms.
  
- Everything not explicitly prohibited in this license is implictly allowed.
+ Everything not explicitly prohibited in this license is implictly permitted.
  
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
@@ -35,7 +35,7 @@ It's still very liberal license.
   2. Altered versions must be plainly marked as such,
    and must not be misrepresented as being the original.
    
-  3. If you publish modified source code of your work, it is required
+  3. If you publish modified source code of this work, it is required
    that you use this license or compatible license. You may add
    yourself into authors/contributors list, as long as you leave others.
   
